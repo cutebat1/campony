@@ -1,2 +1,2 @@
 # campony
-Campony git hub
+Campony
